@@ -38,7 +38,7 @@ use Rikochey\Resources\Websites;
  */
 final class Client
 {
-    public const VERSION = '1.2.0';
+    public const VERSION = '1.2.1';
 
     /**
      * Name of the platform, its identifier and the prefix of its embed script. Rewritten in the

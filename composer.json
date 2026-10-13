@@ -1,8 +1,8 @@
 {
     "name": "rikochey/rikochey-php",
-    "description": "PHP client for the Rikochey API: websites, forms, submissions and API tokens.",
+    "description": "Official PHP client for the Rikochey API: websites, forms, server-side submissions, JavaScript actions and API tokens.",
     "type": "library",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "license": "MIT",
     "keywords": ["rikochey", "leads", "forms", "api", "sdk"],
     "homepage": "https://rikochey.com",
